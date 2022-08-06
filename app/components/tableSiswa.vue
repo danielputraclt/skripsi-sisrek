@@ -20,8 +20,8 @@ export default {
         { text: "Nama", value: "nama" },
         { text: "NIS", value: "nis" },
         // { text: "Password", value: "password" },
-        { text: "edit", value: "edit" },
-        { text: "delete", value: "delete" },
+        { text: "", value: "edit" },
+        { text: "", value: "delete" },
       ],
     };
   },

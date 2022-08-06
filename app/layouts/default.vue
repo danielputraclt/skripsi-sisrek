@@ -73,11 +73,6 @@ export default {
       fixed: false,
       items: [
         {
-          icon: 'mdi-view-dashboard',
-          title: 'Dashboard Admin',
-          to: '/'
-        },
-        {
           icon: 'mdi-account-group',
           title: 'Data Siswa',
           to: '/data-siswa'

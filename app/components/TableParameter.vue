@@ -19,8 +19,8 @@ export default {
       headers: [
         { text: "Nama Parameter", value: "nama_parameter" },
         { text: "Skor Parameter", value: "skor_parameter" },
-        { text: "edit", value: "edit" },
-        { text: "delete", value: "delete" },
+        { text: "", value: "edit" },
+        { text: "", value: "delete" },
       ],
     };
   },

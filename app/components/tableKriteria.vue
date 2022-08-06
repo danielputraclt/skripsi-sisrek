@@ -19,8 +19,8 @@ export default {
       headers: [
         { text: "Nama Kriteria", value: "nama_kriteria" },
         { text: "Skor", value: "skor" },
-        { text: "edit", value: "edit" },
-        { text: "delete", value: "delete" },
+        { text: "", value: "edit" },
+        { text: "", value: "delete" },
       ],
     };
   },

@@ -18,8 +18,8 @@ export default {
     return {
       headers: [
         { text: "Nama Ekstra", value: "nama_ekstra" },
-        { text: "edit", value: "edit" },
-        { text: "delete", value: "delete" },
+        { text: "", value: "edit" },
+        { text: "", value: "delete" },
       ],
     };
   },
