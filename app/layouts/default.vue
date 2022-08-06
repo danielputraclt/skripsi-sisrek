@@ -86,7 +86,17 @@ export default {
           icon: 'mdi-chart-bubble',
           title: 'Data Ekstrakurikuler',
           to: '/data-ekstra'
-        }
+        },
+        {
+          icon: 'mdi-pencil',
+          title: 'Data Kriteria',
+          to: '/data-kriteria'
+        },
+        {
+          icon: 'mdi-eyedropper',
+          title: 'Data Parameter',
+          to: '/data-parameter'
+        },
       ],
       miniVariant: false,
       right: true,
