@@ -1,6 +1,8 @@
 export const state = () => ({
     id: "",
-    nama_ekstra: ""
+    nama_ekstra: "",
+    
+    ekstra: [],
 })
 
 export const mutations = {
